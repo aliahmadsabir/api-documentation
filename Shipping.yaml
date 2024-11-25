@@ -11301,7 +11301,7 @@ components:
       xml:
         name: ItemizedCharges
     PackageResults_RateModifier:
-      type: object
+      type: array
       required:
       - ModifierType
       - ModifierDesc
